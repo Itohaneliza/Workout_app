@@ -21,7 +21,6 @@ const Footer = () => {
                     <a href="https://linkedin.com" target='blank' rel='noreferrerr noopener'><AiFillLinkedin/></a>
                     <a href="https://facebook.com" target='blank' rel='noreferrerr noopener'><FaFacebookSquare /></a>
                     <a href="https://www.instagram.com/" target='blank' rel='noreferrerr noopener'>< GrInstagram /></a>
-                    <a href="https://twitter.com/home" target='blank' rel='noreferrerr noopener'><RxCross2 /></a>
               </div>
         </article>
        
@@ -52,7 +51,7 @@ const Footer = () => {
     <hr />
 
     <div className='footer__copyright'>
-        <small>2023 RAFFY TECH COMPANY &copy; All Rights Reserved</small>
+        <small>2023 SiSi Codes &copy; All Rights Reserved</small>
 
     </div>
     </footer>

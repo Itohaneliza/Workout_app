@@ -20,7 +20,7 @@ const MainHeader = () => {
 
                <Link to="/plans" className="btn-12"><span>Click!</span><span>Get Started</span></Link>
 
-               {/* <button class="custom-btn btn-12"><span>Click!</span><span>Get Started</span></button> */}
+               
 
 
             </div>
@@ -33,7 +33,6 @@ const MainHeader = () => {
         </div>
     </header>
   )
-}// sp-container = container main__header
-//sp-content = main__header-left
+}
 
 export default MainHeader;
